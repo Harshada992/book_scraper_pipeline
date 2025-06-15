@@ -1,0 +1,7 @@
+crewai
+requests
+beautifulsoup4
+pandas
+apscheduler
+loguru
+streamlit
